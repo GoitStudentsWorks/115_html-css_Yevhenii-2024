@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CodeAlchemy/",
+    "build": "vite build --base=/115_html-css_Yevhenii-2024/",
     "preview": "vite preview"
   },
   "devDependencies": {
